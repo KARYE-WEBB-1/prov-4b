@@ -4,7 +4,7 @@
 * Designen är 700px bred.
 * Placera designen ”centrerat” på sidan.
 * Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusgrå) som på bilden.
-* Skapa också en ”quiz” med Javascript som kollar om användaren svara rätt på frågan
+* Skapa också en ”quiz” med Javascript som kollar om användaren svara rätt på frågan.
 
 ## Kvalité
 * Kommentera din kod.
@@ -12,7 +12,8 @@
 
 ## Typsnitt som används
 
-* Använd typsnittet Karma
+* Använd typsnittet Karma från Google Fonts.
+
 I HTML:
 ```html
 <link rel="preconnect" href="https://fonts.googleapis.com">
