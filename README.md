@@ -1,45 +1,60 @@
-# Prov 4
+# Prov 6
 
 ## Instruktioner
-* Designen är 960px bred.
+* Designen är 700px bred.
 * Placera designen ”centrerat” på sidan.
-* Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusblå) som på bilden.
-* Identifiera och välj rätt typsnitt.
-* Skapa också en ”tack-ruta” som visas när man klickar på ”Anmäl ditt intresse nu!”
+* Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusgrå) som på bilden.
+* Skapa också en ”quiz” med Javascript som kollar om användaren svara rätt på frågan
 
 ## Kvalité
 * Kommentera din kod.
 * Indentera din kod så den är tydlig att följa.
 
+## Typsnitt som används
+
+* Använd typsnittet Karma
+I HTML:
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Karma:wght@300;400;500;600;700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+```
+I CSS:
+```css
+  font-family: "Karma", serif;
+  font-weight: 500;
+  font-style: normal;
+```
+
 ## Text som används
-> Hem Käringön Hotellet Lägenheterna Aktiviteterna Bokning Erbjudanden English
+> Kännetecken Utbredning och habitat Levnadssätt Hot Systematik
 
-> Välkommen till upplevelsen Käringön!\
-> God Jul och Gott Nytt År!\
-> Den 4 februari 2008 öppnar vi bokningen igen.\
-> Anmäl ditt intresse nu!
+> Kännetecken\
+> Individerna är på ryggen mörkgrå till svart eller brun och på buken vitaktig. På sidorna finns timglasformiga markeringar i ljusgul till ljusgrå. Vid stjärtfenan är kroppen svartaktig. Färgsättningen skiljer sig mellan olika populationer, i vissa regioner saknas markeringarna på sidan helt. De kan bli mellan 1,70 och 2,40 meter långa och väger omkring 80 kg.
 
-> HOTELL NAUTICA Box 4029 474 04 Käringön\
-> BESÖKSADRESS: Öviken, Käringön\
-> TELEFON: 0304-563 75\
-> E-POST: info@hotellnautica.se\
-> OBS: Under högsäsong går det snabbare att få bokningsbesked etc, om du ringer i stället för att maila.
+> Quiz\
+> Hur mycket väger alla tre delfiner på bilden tillsammans?
+
+> Följ oss på:
 
 ## Färger som används
 
-* <code style="background:#830D28; color:#fff">#830D28</code>
-* <code style="background:#A9B7D4; color:#000">#A9B7D4</code>
-* <code style="background:#36618C; color:#fff">#36618C</code>
-* <code style="background:#000; color:#fff">#000000</code>
-* <code style="background:#888; color:#fff">#888888</code>
+* <code style="background:#f0f0f0; color:#000">#f0f0f0</code>
+* <code style="background:#53cbf1; color:#000">#53cbf1</code>
+* <code style="background:#a9e5f8; color:#000">#a9e5f8</code>
+* <code style="background:#1456AC; color:#fff">#1456AC</code>
+* <code style="background:#888; color:#fff">#888</code>
+* <code style="background:#696969; color:#fff">#696969</code>
+* <code style="background:#000; color:#fff">#000</code>
 
 ## Bilder som används
 
-### Logga
-![Logga](bilder/logga.png)
+### Delfiner
+![Logga](bilder/dolphins.jpg)
 
-### Bakgrundsbild
-![Backgrundsbild](bilder/bakgrund.jpg)
+### Sociala medier
+![Facebook](bilder/soc_facebook.gif)
+![Youtube](bilder/soc_youtube.gif)
 
 ## Skärmdumpar
 
