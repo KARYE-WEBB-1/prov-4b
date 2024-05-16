@@ -6,6 +6,10 @@
 * Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusgrå) som på bilden.
 * Skapa också en ”quiz” med Javascript som kollar om användaren svara rätt på frågan.
 
+## Dokumentation
+
+* Öppna [devdocs.io](https://devdocs.io/) och sök efter de HTML-element och CSS-egenskaper du behöver.
+
 ## Kvalité
 * Kommentera din kod.
 * Indentera din kod så den är tydlig att följa.
