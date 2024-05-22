@@ -7,8 +7,10 @@
 * Skapa också en ”quiz” med Javascript som kollar om användaren svara rätt på frågan.
 
 ## Dokumentation
-
-* Öppna [devdocs.io](https://devdocs.io/) och sök efter de HTML-element och CSS-egenskaper du behöver.
+Du får titta på följande sidor:
+* [HTML](https://www.w3schools.com/html/html_layout.asp)
+* [CSS][https://www.w3schools.com/css/default.asp)
+* [Javascript](https://www.w3schools.com/js/default.asp)
 
 ## Kvalité
 * Kommentera din kod.
