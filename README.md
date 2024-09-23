@@ -8,7 +8,7 @@
 
 ## Dokumentation
 Du får titta på följande sidor:
-* [HTML](https://www.w3schools.com/html/html_layout.asp)
+* [HTML](https://www.w3schools.com/html)
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [Javascript](https://www.w3schools.com/js/default.asp)
 
