@@ -1,6 +1,9 @@
 # Prov 6
 
+![Normal](dump/dump1.png)
+
 ## Instruktioner
+* Skapa en sida som ser ut som skärmdumpen ovan.
 * Designen är 700px bred.
 * Placera designen ”centrerat” på sidan.
 * Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusgrå) som på bilden.
@@ -65,10 +68,8 @@ I CSS:
 
 ## Skärmdumpar
 
-### Normal
-
-![Normal](dump/dump1.png)
-
 ### Klick
+
+När man klickat på "knappen" ska en ruta visas:
 
 ![Klick](dump/dump2.png)
