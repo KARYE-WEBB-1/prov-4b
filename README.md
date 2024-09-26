@@ -7,7 +7,12 @@
 * Designen är 700px bred.
 * Placera designen ”centrerat” på sidan.
 * Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusgrå) som på bilden.
+* Använd typsnittet Karma: https://fonts.google.com/specimen/Karma?query=karma
 * Skapa också en ”quiz” med Javascript som kollar om användaren svara rätt på frågan.
+
+## Kvalité
+* Kommentera din kod.
+* Indentera din kod så den är tydlig att följa.
 
 ## Dokumentation
 Du får titta på följande sidor:
@@ -15,25 +20,21 @@ Du får titta på följande sidor:
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [Javascript](https://www.w3schools.com/js/default.asp)
 
-## Kvalité
-* Kommentera din kod.
-* Indentera din kod så den är tydlig att följa.
+### CSS-reset
 
-## Typsnitt som används
-
-* Använd typsnittet Karma från Google Fonts.
-
-I HTML:
-```html
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Karma:wght@300;400;500;600;700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-```
-I CSS:
+Du kan använda följande CSS-reset för att nollställa alla standardvärden i webbläsaren:
 ```css
-  font-family: "Karma", serif;
-  font-weight: 500;
-  font-style: normal;
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
 ```
 
 ## Text som används
