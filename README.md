@@ -36,8 +36,8 @@ body, h1, h2, h3, h4, h5, h6, p, ul {
     padding: 0;
 }
 img {
-	max-width: 100%;
-	height: auto;
+    max-width: 100%;
+    height: auto;
 }
 ```
 
