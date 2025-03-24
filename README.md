@@ -62,18 +62,7 @@ img {
 * <code style="background:#696969; color:#fff">#696969</code>
 * <code style="background:#000; color:#fff">#000</code>
 
-## Bilder som används
-
-### Delfiner
-![Logga](bilder/dolphins.jpg)
-
-### Sociala medier
-![Facebook](bilder/soc_facebook.gif)
-![Youtube](bilder/soc_youtube.gif)
-
-## Skärmdumpar
-
-### Klick
+## Javascript
 
 När man klickat på "knappen" ska en ruta visas:
 
