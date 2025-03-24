@@ -1,4 +1,4 @@
-# Prov 6
+# Prov 6a
 
 ![Normal](dump/dump1.png)
 
@@ -7,7 +7,10 @@
 * Designen är 700px bred.
 * Placera designen ”centrerat” på sidan.
 * Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusgrå) som på bilden.
-* Använd typsnittet Karma: https://fonts.google.com/specimen/Karma?query=karma
+* Använd typsnittet **Gabriella** till rubrikerna och **Karma** till löpande texten:
+```css
+@import url(http://fonts.googleapis.com/css?family=Gabriela&family=Karma:400,300);
+```
 * Skapa också en ”quiz” med Javascript som kollar om användaren svara rätt på frågan.
 
 ## Kvalité
@@ -46,6 +49,9 @@ img {
 
 > Kännetecken\
 > Individerna är på ryggen mörkgrå till svart eller brun och på buken vitaktig. På sidorna finns timglasformiga markeringar i ljusgul till ljusgrå. Vid stjärtfenan är kroppen svartaktig. Färgsättningen skiljer sig mellan olika populationer, i vissa regioner saknas markeringarna på sidan helt. De kan bli mellan 1,70 och 2,40 meter långa och väger omkring 80 kg.
+
+> Utbredning och habitat\
+> Delfiner förekommer i alla världens hav och i många av de större floderna. De lever i grunda havsområden och i floder. De är mycket sociala djur och lever i grupper om 2-12 individer. Delfiner är mycket intelligenta djur och har en välutvecklad kommunikation med varandra.
 
 > Quiz\
 > Hur mycket väger alla tre delfiner på bilden tillsammans?
