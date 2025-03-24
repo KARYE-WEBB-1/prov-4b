@@ -1,6 +1,6 @@
 # Prov 6a
 
-![Normal](dump/dump1.png)
+![alt text](dump/prov-6b-dump-1.png)
 
 ## Instruktioner
 * Skapa en sida som ser ut som skärmdumpen ovan.
@@ -45,13 +45,10 @@ img {
 ```
 
 ## Text som används
-> Kännetecken Utbredning och habitat Levnadssätt Hot Systematik
+> Kännetecken Levnadssätt Hot Systematik
 
-> Kännetecken\
+> Utseende\
 > Individerna är på ryggen mörkgrå till svart eller brun och på buken vitaktig. På sidorna finns timglasformiga markeringar i ljusgul till ljusgrå. Vid stjärtfenan är kroppen svartaktig. Färgsättningen skiljer sig mellan olika populationer, i vissa regioner saknas markeringarna på sidan helt. De kan bli mellan 1,70 och 2,40 meter långa och väger omkring 80 kg.
-
-> Utbredning och habitat\
-> Delfiner förekommer i alla världens hav och i många av de större floderna. De lever i grunda havsområden och i floder. De är mycket sociala djur och lever i grupper om 2-12 individer. Delfiner är mycket intelligenta djur och har en välutvecklad kommunikation med varandra.
 
 > Quiz\
 > Hur mycket väger alla tre delfiner på bilden tillsammans?
@@ -72,4 +69,9 @@ img {
 
 När man klickat på "knappen" ska en ruta visas:
 
-![Klick](dump/dump2.png)
+### Vid fel svar
+
+![alt text](dump/prov-6b-dump-2.png)
+
+### Vid rätt svar
+![alt text](dump/prov-6b-dump-3.png)
