@@ -1,4 +1,4 @@
-# Prov 6a
+# Prov 6b
 
 ![alt text](dump/prov-6b-dump-1.png)
 
