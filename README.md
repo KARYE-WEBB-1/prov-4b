@@ -1,5 +1,12 @@
 # Prov 6b
 
+## Inspelning av hela provet krävs för godkänt betyg
+1. Starta inspelningen i **Chronicler**
+1. Arbeta med uppgiften
+1. När du är klar **commit & sync**
+1. Stoppa inspelningen i **Chronicler** och lämna in videon på **Classroom**
+
+## Provet
 ![alt text](dump/prov-6b-dump-1.png)
 
 ## Instruktioner
