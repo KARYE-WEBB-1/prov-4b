@@ -1,10 +1,10 @@
 # Prov 6b
 
-## Inspelning av hela provet krävs för godkänt betyg
-1. Starta inspelningen i **Chronicler**
+## Inspelning av hela provet krävs för godkänt prov
+1. Starta inspelningen i **OBS Studio**
 1. Arbeta med uppgiften
 1. När du är klar **commit & sync**
-1. Stoppa inspelningen i **Chronicler** och lämna in videon på **Classroom**
+1. Stoppa inspelningen i **OBS Studio** och lämna in videon på **Classroom**
 
 ## Provet
 ![alt text](dump/prov-6b-dump-1.png)
@@ -31,7 +31,6 @@ Du får titta på följande sidor:
 * [Javascript](https://www.w3schools.com/js/default.asp)
 
 ### CSS-reset
-
 Du kan använda följande CSS-reset för att nollställa alla standardvärden i webbläsaren:
 ```css
 /* Enkel CSS-reset */
@@ -63,7 +62,6 @@ img {
 > Följ oss på:
 
 ## Färger som används
-
 * <code style="background:#f0f0f0; color:#000">#f0f0f0</code>
 * <code style="background:#53cbf1; color:#000">#53cbf1</code>
 * <code style="background:#a9e5f8; color:#000">#a9e5f8</code>
@@ -73,7 +71,6 @@ img {
 * <code style="background:#000; color:#fff">#000</code>
 
 ## Javascript
-
 När man klickat på "knappen" ska en ruta visas:
 
 ### Vid fel svar
