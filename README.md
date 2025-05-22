@@ -11,12 +11,13 @@
 
 ## Instruktioner
 * Skapa en sida som ser ut som skärmdumpen ovan.
-* Designen är 700px bred.
-* Placera designen ”centrerat” på sidan.
+* Sidan skall vara **700px bred och centrerad**.
 * Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusgrå) som på bilden.
 * Använd typsnittet **Gabriella** till rubrikerna och **Karma** till löpande texten:
 ```css
 @import url(http://fonts.googleapis.com/css?family=Gabriela&family=Karma:400,300);
+---
+font-family: "Gabriella";
 ```
 * Skapa också en ”quiz” med Javascript som kollar om användaren svara rätt på frågan.
 
@@ -74,7 +75,6 @@ img {
 När man klickat på "knappen" ska en ruta visas:
 
 ### Vid fel svar
-
 ![alt text](dump/prov-6b-dump-2.png)
 
 ### Vid rätt svar
