@@ -17,5 +17,34 @@
     "explorer.sortOrderLexicographicOptions": "unicode",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "chronicler.recording-defaults": {
+        "countdown": 0
+    },
+    "auto-run-command.rules": [
+    {
+      "condition": "always",
+      "command": "chronicler.record",
+      "message": "Running Chronicler"
     }
+  ],
+  "extensions.allowed": {
+    "ms-dotnettools.csharp": true,
+    "emmanuelbeziat.vscode-great-icons": true,
+    "chrisdias.vscode-opennewinstance": true,
+    "k--kato.docomment": true,
+    "eliostruyf.vscode-hide-comments": true,
+    "richardzampieriprog.csharp-snippet-productivity": true,
+    "arcsine.chronicler": true,
+    "gabrielgrinberg.auto-run-command": true,
+    "angelo-breuer.clock": true,
+    "ms-dotnettools.vscodeintellicode-csharp": false,
+    "GitHub.copilot": false
+  },
 }
