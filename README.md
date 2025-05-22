@@ -1,4 +1,4 @@
-# Prov 6b
+# Prov 4b
 
 ## Inspelning av hela provet krävs för godkänt prov
 1. Starta inspelningen i **OBS Studio**
