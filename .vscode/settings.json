@@ -24,16 +24,6 @@
         "markdown": false,
         "scminput": false
     },
-    "chronicler.recording-defaults": {
-        "countdown": 0
-    },
-    "auto-run-command.rules": [
-    {
-      "condition": "always",
-      "command": "chronicler.record",
-      "message": "Running Chronicler"
-    }
-  ],
   "extensions.allowed": {
     "ms-dotnettools.csharp": true,
     "emmanuelbeziat.vscode-great-icons": true,
