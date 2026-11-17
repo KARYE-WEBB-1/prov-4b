@@ -1,7 +1,9 @@
 # Prov 4b
 
 ## Inspelning av hela provet krävs för godkänt prov
-1. Starta inspelningen i **OBS Studio**
+1. Starta **skärminspelning**
+  * På Mac är att trycka på Skift + Kommando + 5 (Shift + Cmd + 5),
+  * Eller med **OBS Studio**
 1. Arbeta med uppgiften
 1. När du är klar **commit & sync**
 1. Stoppa inspelningen i **OBS Studio** och lämna in videon på **Classroom**
